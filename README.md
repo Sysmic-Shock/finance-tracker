@@ -14,3 +14,27 @@ You will be able to:
 - Make data persistent across multiple sessions so you can be confident that your data will be saved when you exit or close the application
 
 While this will developed to be a CLI-based application, as it grows it may change into something much more visually appealing.
+
+## Roadmap
+
+- Provide a username and password system so multiple users can log in and out, giving them the ability to set and change their own personal password.
+- Provide a way for user to restore the state of a previous transaction if it was changed or removed in error, including a changelog that a user can refer to
+- Transition from a CLI-based interface to a full graphical interface for a more accessible user experience
+- Automatically categorise transactions based on previous transactions
+
+## Tech Stack
+### Confirmed
+- Python
+- Git version Control
+- Pytest
+### Likely
+- CSV/SQLite
+### Possible
+- PostgreSQL
+- Docker
+- Metabase
+
+## Installation
+Installation will be added as development progresses
+## Usage
+Usage will be added as development progresses
