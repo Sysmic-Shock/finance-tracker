@@ -13,7 +13,7 @@ You will be able to:
 - View visual representation of data via analytics to provide you with as many ways to view your finances as possible
 - Make data persistent across multiple sessions so you can be confident that your data will be saved when you exit or close the application
 
-While this will developed to be a CLI-based application, as it grows it may change into something much more visually appealing.
+While this will be developed to be a CLI-based application, as it grows it may change into something much more visually appealing.
 
 ## Roadmap
 
@@ -25,7 +25,7 @@ While this will developed to be a CLI-based application, as it grows it may chan
 ## Tech Stack
 ### Confirmed
 - Python
-- Git version Control
+- Git version control
 - Pytest
 ### Likely
 - CSV/SQLite
